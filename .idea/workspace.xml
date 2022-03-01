@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6c7da7b-1179-4165-b3d2-6a76e0faa00e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="25nRtymeQ7sHmqi9QPdsHROo8fQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="eu.kartoffelquadrat.reflector" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Reflector" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="eu.kartoffelquadrat.reflector.Reflector" />
+      <module name="ReflectionParamNameTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6c7da7b-1179-4165-b3d2-6a76e0faa00e" name="Default Changelist" comment="" />
+      <created>1646161083253</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646161083253</updated>
+      <workItem from="1646161084433" duration="2945000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="87" y="0" width="1071" height="800" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1646161881870">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="87" y="0" width="1071" height="800" key="#com.intellij.execution.impl.EditConfigurationsDialog/1280.-539.1920.1080/0.0.1280.800/3200.-539.1920.1080@0.0.1280.800" timestamp="1646161881870" />
+    <state x="377" y="206" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1646161880545">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="377" y="206" key="#com.intellij.ide.util.TreeClassChooserDialog/1280.-539.1920.1080/0.0.1280.800/3200.-539.1920.1080@0.0.1280.800" timestamp="1646161880545" />
+    <state width="1878" height="212" key="GridCell.Tab.0.bottom" timestamp="1646164015174">
+      <screen x="1280" y="-539" width="1920" height="1080" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom/1280.-539.1920.1080/0.0.1280.800/3200.-539.1920.1080@0.0.1280.800" timestamp="1646162314155" />
+    <state width="1878" height="212" key="GridCell.Tab.0.bottom/1280.-539.1920.1080/0.0.1280.800/3200.-539.1920.1080@1280.-539.1920.1080" timestamp="1646164015174" />
+    <state width="1878" height="212" key="GridCell.Tab.0.center" timestamp="1646164015171">
+      <screen x="1280" y="-539" width="1920" height="1080" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.center/1280.-539.1920.1080/0.0.1280.800/3200.-539.1920.1080@0.0.1280.800" timestamp="1646162314150" />
+    <state width="1878" height="212" key="GridCell.Tab.0.center/1280.-539.1920.1080/0.0.1280.800/3200.-539.1920.1080@1280.-539.1920.1080" timestamp="1646164015171" />
+    <state width="1878" height="212" key="GridCell.Tab.0.left" timestamp="1646164015169">
+      <screen x="1280" y="-539" width="1920" height="1080" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.left/1280.-539.1920.1080/0.0.1280.800/3200.-539.1920.1080@0.0.1280.800" timestamp="1646162314143" />
+    <state width="1878" height="212" key="GridCell.Tab.0.left/1280.-539.1920.1080/0.0.1280.800/3200.-539.1920.1080@1280.-539.1920.1080" timestamp="1646164015169" />
+    <state width="1878" height="212" key="GridCell.Tab.0.right" timestamp="1646164015172">
+      <screen x="1280" y="-539" width="1920" height="1080" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.right/1280.-539.1920.1080/0.0.1280.800/3200.-539.1920.1080@0.0.1280.800" timestamp="1646162314153" />
+    <state width="1878" height="212" key="GridCell.Tab.0.right/1280.-539.1920.1080/0.0.1280.800/3200.-539.1920.1080@1280.-539.1920.1080" timestamp="1646164015172" />
+    <state x="128" y="0" key="SettingsEditor" timestamp="1646161806127">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="128" y="0" key="SettingsEditor/1280.-514.1920.1055/0.0.1280.800/3200.-514.1920.1055@0.0.1280.800" timestamp="1646161806127" />
+    <state x="128" y="0" key="SettingsEditor/1280.-539.1920.1080/0.0.1280.800/3200.-539.1920.1080@0.0.1280.800" timestamp="1646161755908" />
+  </component>
+</project>
